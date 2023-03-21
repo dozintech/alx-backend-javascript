@@ -1,1 +1,0 @@
-WE Deal with Data Manipulation
